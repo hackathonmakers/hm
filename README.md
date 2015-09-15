@@ -1,2 +1,2 @@
 # Hackathon Makers 2015
-Hackathon Makers website repository.
+Maquetado de version 2015 v2 del hackathonmakers.org
